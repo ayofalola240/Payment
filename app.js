@@ -86,7 +86,7 @@ app.use(session({
     resave: false 
 }));
 //2) ROUTES
-app.use('/api/v1/payments', paymentRoutes);
+app.use('/api/v1/billers', paymentRoutes);
 
 
 app.all('*', (req, res, next) => {

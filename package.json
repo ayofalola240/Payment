@@ -26,6 +26,7 @@
     "express-rate-limit": "^5.3.0",
     "express-session": "^1.17.2",
     "helmet": "^4.6.0",
+    "interswitch": "^2.1.7",
     "lodash": "^4.17.21",
     "mongoose": "^5.13.3",
     "morgan": "^1.10.0",
